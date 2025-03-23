@@ -45,13 +45,5 @@ Text mining and Natural Language Processing (NLP) techniques.
 - Jupyter Notebook
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `nltk`, `spacy`, `re`, etc.
 
-Use the following command to install dependencies:
-```bash
-pip install -r requirements.txt
-```
 
----
 
-## 📚 License
-
-This project is for educational and experimental purposes.
