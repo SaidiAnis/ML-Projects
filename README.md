@@ -45,5 +45,10 @@ Text mining and Natural Language Processing (NLP) techniques.
 - Jupyter Notebook
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `nltk`, `spacy`, `re`, etc.
 
+---
+
+## 📚 License
+
+This project is for educational and experimental purposes.
 
 
