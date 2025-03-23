@@ -1,5 +1,5 @@
 
-# 🧠 ML & DL Notebook Collection
+# 🧠 ML Notebook Collection
 
 This repository gathers several practical Jupyter notebooks covering key concepts in **machine learning**, **dimensionality reduction**, and **text mining**.
 
